@@ -17,13 +17,7 @@ A modern, responsive movie discovery application built with React, Vite, and Tai
 - ⚡ **Fast Performance** - Built with Vite for lightning-fast development and builds
 - 💾 **Search Analytics** - Track popular searches using Appwrite backend
 
-## 🚀 Demo
 
-[Live Demo](#) <!-- Add your deployment link here -->
-
-## 📸 Screenshots
-
-<!-- Add screenshots of your application here -->
 
 ## 🛠️ Tech Stack
 
