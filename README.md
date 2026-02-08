@@ -207,6 +207,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ### Footer & Pagination
 ![Footer](public/screenshots/demo-footer.png)
 
+### Movie Details
+![Movie Details Modal](public/screenshots/demo-details.png)
+
 ## 👤 Author
 
 **Peter Njuguna**
