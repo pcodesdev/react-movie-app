@@ -192,23 +192,31 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+## 📸 Screenshots
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+### Hero Section
+![Hero Section](public/screenshots/demo-hero.png)
 
-## 🙏 Acknowledgments
+### Trending Movies
+![Trending Movies](public/screenshots/demo-trending.png)
 
-- [The Movie Database (TMDB)](https://www.themoviedb.org/) for the comprehensive movie API
-- [Appwrite](https://appwrite.io/) for the backend infrastructure
-- [Tailwind CSS](https://tailwindcss.com/) for the styling framework
-- [Vite](https://vitejs.dev/) for the blazing fast build tool
+### Advanced Filtering
+![Filter Bar](public/screenshots/demo-filters-1.png)
+![Filter Results](public/screenshots/demo-filters-2.png)
+
+### Footer & Pagination
+![Footer](public/screenshots/demo-footer.png)
+
+## 👤 Author
+
+**Peter Njuguna**
+- GitHub: [@pcodesdev](https://github.com/pcodesdev)
+- X (Twitter): [@PcodesDev](https://x.com/PcodesDev)
+- Portfolio: [pcodesdev.github.io](https://pcodesdev.github.io/)
 
 ## 📧 Contact
 
-For questions or feedback, please reach out at [your.email@example.com](mailto:your.email@example.com)
+For questions or feedback, please reach out at [pcodesdev@gmail.com](mailto:pcodesdev@gmail.com)
 
 ---
 

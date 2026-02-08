@@ -10,6 +10,12 @@ const Footer = () => {
 
                 <div className="flex gap-6">
                     <a
+                        href="mailto:pcodesdev@gmail.com"
+                        className="text-gray-100 hover:text-white transition-colors text-sm"
+                    >
+                        Email
+                    </a>
+                    <a
                         href="https://github.com/pcodesdev"
                         target="_blank"
                         rel="noopener noreferrer"
